@@ -117,6 +117,12 @@ You can connect the CLI to external services (like GitHub, Google Drive, or Data
 
 Use the `save_memory` tool (or `memoryTool`) to store facts during a session. This allows the agent to remember user preferences across different interactions within the session [[3]](#ref-3), [[12]](#ref-12).
 
+## Next Steps
+
+- Experiment with different agent personas by modifying `GEMINI.md`.
+- Explore additional MCP Servers for more integrations.
+- Use [Code Wiki](https://codewiki.google/) for documentation
+
 ## References
 
 The following sources were used to compile the Gemini CLI tutorial:
