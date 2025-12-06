@@ -135,9 +135,12 @@ CLI agents. These agents should be copied to your
 
 ## See Also
 
-This series by Romin Irani is a more comprehensive guide to Gemini CLI: [Gemini
-CLI Tutorial
-Series](https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718).
+This series by [Romin Irani](https://iromin.medium.com/) is a more comprehensive
+guide to Gemini CLI:
+[Gemini CLI Tutorial Series](https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718).
+
+Also look at the official Gemini CLI tutorials:
+[Gemini CLI Tutorials](https://geminicli.com/docs/cli/tutorials/).
 
 ## References
 
