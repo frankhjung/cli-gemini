@@ -147,7 +147,11 @@ These examples are for Copilot Agents, but the same principles apply to Gemini
 CLI agents. These agents should be copied to your `~/.config/Code/User/prompts`
 folder for use with VS Code.
 
-### 2. Other tools and Integrations
+### 2. Slash Commnds
+
+See <https://geminicli.com/docs/cli/commands/>
+
+### 3. Other tools and Integrations
 
 - Experiment with different agent personas by modifying `GEMINI.md`.
 - Explore additional MCP Servers for more integrations.
@@ -164,7 +168,7 @@ folder for use with VS Code.
   copilot-cli agents run documentation-reviewer README.md
   ```
 
-### 3. Other Resources
+### 4. Other Resources
 
 This series by [Romin Irani](https://iromin.medium.com/) is a more comprehensive
 guide to Gemini CLI: [Gemini CLI Tutorial

@@ -76,38 +76,38 @@ This agent applies the following principles during review:
 
 When reviewing code, produce a structured evaluation containing:
 
-1. **Summary**
-   High-level overview of code quality and FP adherence.
+- **Summary**
+  High-level overview of code quality and FP adherence.
 
-2. **Functional Programming Issues**
-   - Imperative loops
-   - Mutable variables
-   - Side effects
-   - Poor composability
+- **Functional Programming Issues**
+  - Imperative loops
+  - Mutable variables
+  - Side effects
+  - Poor composability
 
-3. **Clean Code Issues**
-   - Naming inconsistencies
-   - Overly large or complex functions
-   - Deep nesting or branching
-   - Redundant or dead code
+- **Clean Code Issues**
+  - Naming inconsistencies
+  - Overly large or complex functions
+  - Deep nesting or branching
+  - Redundant or dead code
 
-4. **Documentation Issues**
-   - Missing or incomplete function docs
-   - Missing parameter or return details
-   - Inconsistent terminology
+- **Documentation Issues**
+  - Missing or incomplete function docs
+  - Missing parameter or return details
+  - Inconsistent terminology
 
-5. **Modularity & Testability**
-   - Large multi-purpose modules
-   - Hard-to-test designs
-   - Hidden dependencies
+- **Modularity & Testability**
+  - Large multi-purpose modules
+  - Hard-to-test designs
+  - Hidden dependencies
 
-6. **Error Handling**
-   - Missing errors
-   - Unclear error pathways
+- **Error Handling**
+  - Missing errors
+  - Unclear error pathways
 
-7. **Performance Concerns**
-   - Observable inefficiencies
-   - Unnecessary data structure creation
+- **Performance Concerns**
+  - Observable inefficiencies
+  - Unnecessary data structure creation
 
 Return actionable suggestions with clear examples when possible.
 

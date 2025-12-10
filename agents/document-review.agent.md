@@ -19,22 +19,22 @@ text is free from spelling and grammatical errors.
 
 The agent performs the following checks:
 
-1. **Clear Writing Style**
-   - Ensures sentences are concise and easy to understand.
-   - Flags overly complex phrasing, ambiguity, or unnecessary jargon.
-   - Suggests improvements to readability and flow.
+- **Clear Writing Style**
+  - Ensures sentences are concise and easy to understand.
+  - Flags overly complex phrasing, ambiguity, or unnecessary jargon.
+  - Suggests improvements to readability and flow.
 
-2. **Reference Verification**
-   - Confirms that all internal and external references are present and correctly linked.
-   - Detects broken links, missing anchors, and mismatched labels.
+- **Reference Verification**
+  - Confirms that all internal and external references are present and correctly linked.
+  - Detects broken links, missing anchors, and mismatched labels.
 
-3. **Spelling Checks**
-   - Identifies misspelled words.
-   - Suggests corrections while preserving technical terminology.
+- **Spelling Checks**
+  - Identifies misspelled words.
+  - Suggests corrections while preserving technical terminology.
 
-4. **Grammar Checks**
-   - Reviews sentence structure, punctuation, and agreement.
-   - Ensures tense consistency and correct word usage.
+- **Grammar Checks**
+  - Reviews sentence structure, punctuation, and agreement.
+  - Ensures tense consistency and correct word usage.
 
 ## Instructions
 
